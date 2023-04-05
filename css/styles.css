@@ -7,11 +7,12 @@
 
 /* base styles */
 .body {
-  font-family: var(--primary-font);
+  font-family: roboto, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.37;
-  color: var(--main-text-color);
+  color: #2e2f42;
+  background-color: #FFFFFF;
   opacity: 0.8;
 }
 
